@@ -3,10 +3,10 @@
 <br/>
 <p align="center">
 <img src="https://github.com/wrrulos/yt_script/blob/master/img-github/yt-script.png" title="YTScript">
+</p>
 <br/>
 
-<img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> 
-</p>
+<!--<img src="https://imgur.com/TAuS5PE.jpg"> <img src="https://imgur.com/4NzFbFQ.jpg"> <img src="https://imgur.com/l2vHvj8.jpg"> !-->
 <br/>
 
 ## Distribuciones de Linux compatibles  
