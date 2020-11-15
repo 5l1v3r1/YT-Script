@@ -32,7 +32,6 @@ def yt_script():
     print(Fore.YELLOW +"   | |   | |    ___) | (__| |  | | |_) | |_ ")
     print(Fore.YELLOW +"   |_|   |_|   |____/ \___|_|  |_| .__/ \__|")
     print(Fore.YELLOW +"                                 |_|        ", end="")
-    print(Fore.RED +" BETA")
     print("")
     print("")
     print(Fore.YELLOW +"   [", end="")
@@ -88,6 +87,7 @@ def yt_script():
             print(Fore.YELLOW +"] ", end="")               
             print(Fore.GREEN + nombre, end="")  
             print(Fore.GREEN + ".mp4 se guardo en la carpeta del script")
+            print("")
         if formato == B or formato == b:
             print("")  
             print(Fore.YELLOW +" [", end="")
@@ -102,7 +102,8 @@ def yt_script():
             print(Fore.GREEN +"*", end="")
             print(Fore.YELLOW +"] ", end="")               
             print(Fore.GREEN + nombre, end="")  
-            print(Fore.GREEN + ".mp4 se guardo en la carpeta del script")
+            print(Fore.GREEN + ".mp3 se guardo en la carpeta del script")
+            print("")
  
     if pregunta == n or pregunta == no or pregunta == nO or pregunta == NO or pregunta == No:
          pantalla()
