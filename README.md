@@ -33,7 +33,7 @@
 
 ## Screenshots
 
-<img src="https://imgur.com/4iF5eiK.jpg">
+<img src="https://github.com/wrrulos/yt_script/blob/master/img-github/yt-script2.png">
 
 ## Tutorial 
 
