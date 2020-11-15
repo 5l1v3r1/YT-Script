@@ -19,7 +19,7 @@
 
 ## Instalacion 
 
-* git clone https://github.com/wrrulos/yt_script.git
+* git clone https://github.com/wrrulos/YT-Script.git
 
 * pip3 install youtube-dl 
 
