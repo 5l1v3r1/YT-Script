@@ -1,5 +1,5 @@
 # YT-Script
-<h3> Script escrito en Python3 para descargar videos de Youtube en formato .mp4 o .mp3 diseñado para Linux y Windows</h3>
+<h3> Herramienta para descargar videos de Youtube en formato .mp4 o .mp3. Diseñado para Linux y Windows</h3>
 <br/>
 <p align="center">
 <img src="https://github.com/wrrulos/yt_script/blob/master/img-github/yt-script.png" title="YTScript">
